@@ -532,3 +532,30 @@ footer {
 footer p {
   text-align: center;
 }
+
+/*Pages Styles */
+
+#project-details {
+  position: relative;
+}
+
+.project-section-container {
+  justify-content: center;
+  display: flex;
+  gap: 5rem;
+  height: 80vh;
+}
+
+.project-img-container {
+  justify-content: center;
+}
+
+.project-details-text {
+  display: grid;
+  align-items: center;
+  font-weight: normal;
+}
+
+.project-img {
+  border-radius: 2rem;
+}
